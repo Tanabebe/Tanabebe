@@ -1,4 +1,9 @@
-こんちわ!!:cop:
+<h1>Hey, What’s up! <img src="https://cdn3.emoji.gg/emojis/6536-sonicspinring.gif" height="35" alt="SonicSpinRing"></h1>
+
+![](https://komarev.com/ghpvc/?username=tanabebe&style=plastic)
+
+[![](https://raw.githubusercontent.com/Tanabebe/Tanabebe/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Tanabebe/Tanabebe/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Tanabebe/Tanabebe/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--
 **Tanabebe/Tanabebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://raw.githubusercontent.com/Tanabebe/Tanabebe/main/profile-summary-card-output/2077/0-profile-details.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanabebe&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![](https://raw.githubusercontent.com/Tanabebe/Tanabebe/main/profile-summary-card-output/2077/4-productive-time.svg)
