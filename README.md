@@ -1,3 +1,5 @@
+こんちは😄
+
 <!--
 **Tanabebe/Tanabebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanabebe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/Tanabebe/Tanabebe/main/profile-summary-card-output/2077/0-profile-details.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanabebe&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/Tanabebe/Tanabebe/main/profile-summary-card-output/2077/4-productive-time.svg)
