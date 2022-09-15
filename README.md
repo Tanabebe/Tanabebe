@@ -2,6 +2,8 @@
 
 I'm Tanabebe, back-end developer from Japan.:jp::japanese_goblin:
 
+📝 I regularly write articles on [tanabebe blog](https://tanabebe.hatenablog.com/)
+
 ![](https://komarev.com/ghpvc/?username=tanabebe&style=plastic)
 
 [![](https://raw.githubusercontent.com/Tanabebe/Tanabebe/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
