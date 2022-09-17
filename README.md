@@ -1,4 +1,4 @@
-<h1>Hey, What’s up! <img src="https://cdn3.emoji.gg/emojis/6536-sonicspinring.gif" height="35" alt="SonicSpinRing"></h1>
+<h1>Hey, What’s up! <img align="top" src="https://cdn3.emoji.gg/emojis/6536-sonicspinring.gif" height="35" alt="SonicSpinRing"></h1>
 
 I'm Tanabebe, back-end developer from Japan.:jp::japanese_goblin:
 
