@@ -31,9 +31,3 @@ I'm Tanabebe, back-end developer from Japan. :jp::japanese_goblin:
 
 [![MySQL](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-
-
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://x.com/tanabebe_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanabebe" height="30" width="40" /></a>
-</p>
